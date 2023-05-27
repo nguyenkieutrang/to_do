@@ -27,7 +27,7 @@ class AddDialog extends StatelessWidget {
                         Get.back();
                         homeCtr.editCtrl.clear();
                         homeCtr.changeTask(null);
-                      },gi
+                      },
                       icon: const Icon(Icons.close),
                     ),
                     TextButton(
